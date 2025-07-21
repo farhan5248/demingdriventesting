@@ -4,44 +4,14 @@ title:  About
 permalink: /about/
 ---
 
-# My background
+# Why Deming Driven Testing
 
-I've been a Java developer for 15 years primarily working on the architecture, design and deployments or large enterprise systems. 
-Over the past 10 years, I've led a development team (~20 people) and a QA team (~40 people). 
-I spent most of my time on architecture, design and automated deployments.I've worked on really large integration projects (20 environments with a single environment having 20, 50 or 200 VM). 
-I've gone from doubting to loving TDD/BDD and supporting other developers and testers in adopting it. 
+I came across the term Deming Driven Testing from [Mike Harris](https://testandanalysis.home.blog/) which I like very much because it describes the approach I took accurately.
 
-# Why I've made this and is it for you?
-
-During that time I found that QA took weeks to months to complete their test execution phase and in most cases didn't think CICD or DevOps applied to them.
-When I went looking for information, I never read about how anyone got their traditional QA teams to change.
-There's information on how to use Cucumber to automate your tests but not how you get a large QA team to do so with legacy technology like COBOL or unpopular stuff like PL/SQL or how to have the tests run earlier without adding more resources or delays.
-Eventually when the opportunity presented itself, I decided to lead a large QA team to figure out how to help them evolve. 
-That one QA team initially had 4 QA teams of almost 50-60 individuals.
-
-Though I first started with automating deployments, in hindsight we should have started with changing the way we did QA.
-I'd say it's for similar reasons as described in [this episode of Small Batches](https://smallbatches.fm/107). 
-Just as TDD is skill zero, helping the QA teams evolve should be one of the first priorities.
-So if you've read some of these books that I've read or listened to these podcasts and you're interested in reading about examples of how they were applied when leading a QA team down this path then perhaps this helps you.
-
-1. Continuous Delivery
-2. The DevOps Handbook
-3. Leading Lean Software Delivery
-4. The High Velocity Edge
-5. Toyota Kata
-6. Sooner Safer Happier
-7. Team of Teams
-8. Deming's Journey of Profound Knowledge
-9. Lean Made Simple
-10. Chain of Learning
-11. Profound
-12. The Ideal Cast
-13. Small Batches
-14. The Engineering Room
+Why not lean testing or something like that? 
 
 # The approach I took
 
-I recently came across the term Deming Driven Testing from [Mike Harris](https://testandanalysis.home.blog/) which I like very much because it describes the approach I took accurately.
 I applied the following to the process of inspection carried out by the QA team:
 
 1. Toyota Production System concepts (Jidoka, Kaizen, Poka-Yoke)
@@ -102,23 +72,3 @@ In addition to the usual benefits of using a language editor in an IDE the [Xtex
 To be clear this is like the [Java Parser API](https://javaparser.org/) I use to generate Java code automatically.
 Through this API, you could extract whichever data you wanted to transform it into whatever you wanted from all of the tests written by all of the testers in the entire team for every component they tested.
 It also ensured that the language used to describe the business domain was mapped to the system that was being tested.
-
-# How I'm trying to share the knowledge
-
-While helping the team learn, I found that instead of giving cold hard facts and principles, I communicated better with stories.
-In this site, I'm attempting to explain some principles that I applied to those teams by recounting some of my experiences.
-I'm putting as much of my knowledge that I've accumulated so far using models for coding/testing in these repos as examples that I'll reference in the stories.
-Hopefully this makes it easier for someone else who's interested in doing similar things.
-
-I'm actually listening to The Goal by Eliyahu M. Goldratt for inspiration. 
-I'm starting with the QA portion of my story but there's also the dev portion.
-That is, what made me think of joining a QA team when my own team did TDD/BDD and had a CICD pipeline and fully automated deployments to production; why wasn't that enough?
-
-# Where all the documentation is
-
-This is a work in progress so I'll be updating it daily/weekly. In general the documentation is divided up as so:
-1. **Prezi**: To understand the context within which I've used these tools and frameworks, I created this [Prezi presentation](https://prezi.com/view/yNpSiGMbioX8lNp5tS2q/). 
-2. **farhan5248.github.io**: The stories of how the team transformed are here. I'm working to move the Prezi content to it and include references to example code in the Git repos.
-3. **GitHub Repo README**: This intro and how to build and run the plug-ins.
-4. **GitHub Repo Wiki**: Explanations about why I designed things the way I did, roadmap of stuff that's left to implement and notes on how to create/modify the code for first time Xtext or Maven plug-in developers.
-5. **GitHub Repo sheep-dog-qa**: This has the usage notes on how the plug-ins work. It's both the test cases and user manual. I wanted it to be an example of living documentation.
