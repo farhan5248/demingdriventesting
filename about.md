@@ -10,13 +10,21 @@ I came across the term Deming Driven Testing from [Mike Harris](https://testanda
 
 So why Deming and not Lean?
 
-As I was searching for information on how to transform QA teams, a new buzzword emerged; Shift Left.
+As I was searching for information on how to transform QA teams in 2018, a new buzzword emerged; Shift Left.
 I researched where that term came from and came across Dr Deming's work and the [quote on scraping toast](https://deming.org/you-burn-ill-scrape/).
 I also learnt about his 14 points and the need to cease dependency on inspection and the System of Profound knowledge.
 The latter included the psychology of change which I found was essential in trying to solve what are socio-technical problems.
 I like to take a first principles approach and so I concluded that what Dr Deming described made for a good foundation. 
 
-I should note that when it came to how to apply anything to do with psychology I had no idea of what to do at the time.
+Additionally Lean sadly seems to be misunderstood.
+I was concerned that if people on my team went Googling what Lean is, they'd get information that would discourage them from trying it out.
+Some folks think Lean six-sigma is the same as Lean which is the same as TPS.
+I admit that I think the latter two are the same and know nothing about the six-sigma one (I've so far found no use for it).
+From the podcasts I listen to I hear consultants say the same thing; folks think it doesn't apply because they don't make anything (my QA team didn't make software), or they don't make cars or they don't make the same thing over and over again.
+My response is that lean is about the process. Even if you don't make cars, the same car or make anything at all, your process is not changing everytime you do the job. 
+And so this aligns nicely with Statistical Process Control and the emphasis on process quality and inspecting products to find defects in the process rather than inspecting the product to ensure quality.
+
+I should note that when it came to how to apply anything to do with psychology I had no idea of what to do at the time and found very little help from the software development world.
 For that I relied on [Start with Why](https://simonsinek.com/books/start-with-why/) by Simon Sinek.
 The approach he described in [this presentation](https://www.youtube.com/watch?v=N9d0NqSztWA&t=188s) is basically how I moved the team forward. 
 
