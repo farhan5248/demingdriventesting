@@ -7,7 +7,7 @@ Maybe it's because all the contractors who worked with me on and myself left but
 The dev lead and developers who took over also reported to my manager so why didn't they maintain it?
 I think it's because it wasn't theirs, they didn't own it. 
 They also didn't know how to use the version control system for their code so I assume that contributed to it.
-I'm told they went back to manual deploys for the [system I described](What%20led%20me%20to%20a%20QA%20team/The%20Awesome%20Machine)
+I'm told they went back to manual deploys for the [system I described](/demingdriventesting/What%20led%20me%20to%20a%20QA%20team/The%20Awesome%20Machine)
 
 When I left my QA team in 2022, they kept everything. 
 The other testing team, a UAT team, was merged with mine and I'm told they questioned why my team worked the way they did.
