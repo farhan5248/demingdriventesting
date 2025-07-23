@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Dr Deming
+title:  Who was Dr Deming
 permalink: /deming/
 ---
 

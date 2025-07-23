@@ -1,5 +1,5 @@
 ---
-title: Muda
+title: Muda Mura Muri
 ---
 
 When I joined the QA team, I had introduced the term shift left. By the time I left the team, I grew to hate the mere mention of it :P. 
@@ -22,7 +22,7 @@ Then I demonstrated how that waste can be reduced and eventually prevented by wo
 The custom Maven plug-in worked as a sort of automated test suite that would validate their work similar to how their test cases in turn would validate the developers work. 
 The more frequently they ran the plug-in, the earlier they would catch their mistakes and save more time and therefore reduce wasted efforts.
 When we started using preventative approaches through Xtext, they started to see the value of tests driving the development.
-Instead of typing and then checking for mistakes, the IDA would give them feedback as they typed and that prevented the need to run a program to test for issues in the work.
+Instead of typing and then checking for mistakes, the IDE would give them feedback as they typed and that prevented the need to run a program to test for issues in the work.
 
 The more waste was reduced, the more free time people had to try new things or help others.
 This meant more kaizens and even more free-time for an individual or free-time for the team.
