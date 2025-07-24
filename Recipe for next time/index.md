@@ -5,6 +5,7 @@ title: Recipe for next time
 This is a work in progress
 
 1. [Extrinsic vs Intrinsic Motivation](Motivation)
+2. [Should you break-up your QA team](Team)
 1. [Team Topologies](Team%20Topologies)
 2. [Install Tools](Install%20Tools)
 3. [Remove Admin Toil](Remove%20Admin%20Toil)

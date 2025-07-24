@@ -19,4 +19,4 @@ The [Sys-Tao site has some good links](https://sys-tao.org/links/), these are ab
 
 I've put some comments on the 14 points and system of profound knowledge as it applied to my QA team.
 1. [Fourteen Points](points)
-2. [System of Profound Knowledge](system)
+2. [System of Profound Knowledge](sopk)

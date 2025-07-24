@@ -26,7 +26,6 @@ And so this aligns nicely with Statistical Process Control and the emphasis on p
 
 I should note that when it came to how to apply anything to do with psychology I had no idea of what to do at the time and found very little help from the software development world.
 For that I relied on [Start with Why](https://simonsinek.com/books/start-with-why/) by Simon Sinek.
-The approach he described in [this presentation](https://www.youtube.com/watch?v=N9d0NqSztWA&t=188s) is basically how I moved the team forward. 
 
 # The direction of challenge
 
