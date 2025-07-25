@@ -23,3 +23,25 @@ I thought my testers 4 things to do daily with Git
 2. Pull any remote changes on the branch and handle any conflicts
 3. Merge in the release branch. The release branch had the baseline for the current waterfall release.
 4. Push the changes
+
+
+# Team Tools
+
+If you're wondering which tools were used by my QA team, they were:
+
+1. Eclipse
+2. Eclipse Modelling Framework (UML)
+3. Eclipse Xtext
+4. Java Universal Graph Library
+5. PlantUML
+6. D3.js
+7. GraphWalker
+8. Cucumber
+9. Java
+10. SoapUI
+11. Groovy
+12. Robot Framework
+13. Python
+14. PyCharm
+15. Jenkins
+16. Maven
