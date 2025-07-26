@@ -11,13 +11,13 @@ Recently I came across [this episode of the Shop Floor](https://open.spotify.com
 I like the way [Chris Roser](https://www.allaboutlean.com/christoph-roser/) has explained things because it aligns with what I remember.
 I've made notes [here in the blog](/sheepdogblog/jekyll/update/2025/07/24/creating-pull-in-your-factory) with links back to detailed examples here.
 
-1. [Statistical Process Control](SPC)
-2. [Heijunka](Heijunka)
-3. [Gemba](Gemba)
-4. [Muda Mura Muri](Muda)
-5. [Standardized Work](Standardized%20Work)
-6. [Kaizen](Kaizen)
-7. [Jidoka](Jidoka)
-8. [Poka Yoke](Poka%20Yoke)
+1. [Muda Mura Muri](Muda)
+2. [Statistical Process Control](SPC)
+3. [Standardized Work](Standardized%20Work)
+4. [Gemba](Gemba)
+5. [Kaizen](Kaizen)
+6. [Jidoka](Jidoka)
+7. [Poka Yoke](Poka%20Yoke)
+8. [Just In Time](Just%20In%20Time)
 9. [Kanban](Kanban)
-10. [Just In Time](Just%20In%20Time)
+10. [Heijunka](Heijunka)
