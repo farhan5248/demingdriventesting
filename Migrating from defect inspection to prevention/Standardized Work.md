@@ -51,3 +51,11 @@ In addition to the usual benefits of using a language editor in an IDE the [Xtex
 To be clear this is like the [Java Parser API](https://javaparser.org/) I use to generate Java code automatically.
 Through this API, you could extract whichever data you wanted to transform it into whatever you wanted from all of the tests written by all of the testers in the entire team for every component they tested.
 It also ensured that the language used to describe the business domain was mapped to the system that was being tested.
+
+> **Note:**  
+> Most of the testers didn't write test cases in a way that another tester could understand and execute their tests.  
+> One challenge in getting folks to adopt a standard that requires so much details is fear.  
+> I think folks kept the test cases light on details to protect their job-security.  
+> That is, if nobody can read their work, then nobody can replace them.  
+> By showing the team that the test cases written in the DSL can be automatically converted into automation, I feel it helped reduce the resistance.  
+> Even if they would lose their job as a result of sharing knowledge, at least they would learn Robot Framework with Python.

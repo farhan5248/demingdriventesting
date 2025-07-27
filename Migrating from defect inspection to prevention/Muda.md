@@ -1,6 +1,18 @@
 ---
-title: Muda Mura Muri
+title: Muda
 ---
+
+> **NOTE:**  
+> 1. Transport: Manual tester to test automation developer.
+> 2. Inventory: Unexecuted tests or unvalidated automation tests.
+> 3. Waiting: Waiting for test automation to be created or run, waiting for devs to fix bugs.
+> 4. motion, unnecessary clicking like with doc to dnp which I wrapped with maven.
+> 5. overproduction, unnecessary test cases to meet a metric of x test cases for y days of coding.
+> 6. overprocessing, unnecessary steps in the test case or over complicated test setups or doing e2e testing when a unit test is good enough.
+> 7. defects, test case writing defects.
+> 8. skills, testers who were able to learn to code like Pratik but whose time was wasted doing manual testing.
+
+Waste
 
 When I joined the QA team, I had introduced the term shift left. By the time I left the team, I grew to hate the mere mention of it :P. 
 My dislike came from all the misinterpretations of it. 

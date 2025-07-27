@@ -2,6 +2,15 @@
 title: Kaizen
 ---
 
+> **Note:**  
+> Describe how the company 6 step PDCA worked
+> Rarely did anyone come up with an improvement that didn't need my support as the manager.  
+> I'd then prioritise which improvements would have the biggest impact for the team and work on those.  
+> Though step 1 was initiatied during the 1:1, the remaining 4 happenned throughout the week through Slack conversations.  
+> Step 6 was a weekly/monthly/quarterly review of all changes to the process depending on the impact of the change.  
+> The company also recommend the use of SMART goals for the quarterly goals so we used that for each improvement.
+
+
 Initially when someone had an idea to improve, they thought they needed to ask for permission.
 I assume it was because amongst other reasons they thought it'll take time and cause a delay or it might have negative impacts. 
 The smaller the change and negative impact, the less likely one is to ask for permission before trying something. 

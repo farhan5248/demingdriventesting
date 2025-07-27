@@ -1,5 +1,5 @@
 ---
-title:  Statistical Process Control
+title:  Mura
 ---
 
 Though I had come across the term [SPC](https://deming.org/the-first-control-chart/) I didn't know anyone who knew anyting about them.
