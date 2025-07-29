@@ -1,14 +1,14 @@
 ---
-title:  Mura
+title:  Mura - Unevenness
 ---
 
 Though I had come across the term [SPC](https://deming.org/the-first-control-chart/) I didn't know anyone who knew anyting about them.
 As a result, I basically had this one type of chart that I used the entire 4.5 years I was on the QA team.
 I looked at this myself and sometimes drew it out for people but rarely referred to it in any meeting with anyone.
-Looking back I can describe the transformation journey of the COBOL team using these charts.
+Looking back I can describe the transformation journey of the COBOL testers using these charts.
 
 Imagine each one is for a feature that lasts 3 months; everyone on the team had at least one of these at any point of time.
-The x axis is time from the moment the tester started writing test cases .
+The x axis is time from the moment the tester started writing test cases.
 The y axis is time it takes to correct a failure. 
 Some failures were due to code bugs but others were test planning failures.
 Examples of test planning failures are incorrect test case expecations or typos in the test case which create errors in the test automation generation.

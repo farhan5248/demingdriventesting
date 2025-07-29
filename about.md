@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  About
-permalink: /about/
+permalink: /about
 ---
 
 # Why Deming Driven Testing
@@ -45,3 +45,28 @@ Eventually in the case of one team, the testers were running their automated tes
 The result was that almost all of that QA team's end-to-end tests were run as business component tests before the code was delivered to the QA environment and was virtually defect-free.
 
 I should add that the integration process was weak and we wound up implementing the [Test Hourglass anti-pattern](https://testing.googleblog.com/2020/11/fixing-test-hourglass.html) but at least the last phase was done in a week or so, down from months
+
+# The Ubiquitous Language
+
+I've tried to document not just the process of transforming the team but the use of a specific concept; the Ubiquitous Language from Domain Driven Design.
+This link to [Martin Fowler's bliki entry on Ubiquitous Language](https://martinfowler.com/bliki/UbiquitousLanguage.html) describes the concept of Ubiquitous Language as a language that is used by both domain experts and developers. 
+In my case, I considered the testers as the domain experts as did the developers. 
+[In his conversation with Eric Evans, at around minute 5](https://youtube.com/clip/UgkxwDpbV3Wzrdz0mNow9cglz9_KJuxLmj25?si=6Sx67uKN7UoKukVM), Dave Farley explains how he uses the ubiquitous language to write tests. 
+This is what my QA team did and what I've done to create the test code for the supporting code. 
+
+Regardless of whether the test was intended to be automated or not in the current process, everything was written in that language.
+I won't go into the details of how we arrived at the conclusion that it was the goal over 3 years here, that's covered in the stories.
+I will say that I started out with the intention to adopt a keyword driven test automation approach but that had its own issues, namely it devolving into a programming language.
+
+Why the Ubiquitous language, why not just teach them to write the Java/Python code?
+Teaching that many people to code would be more challenging (details explained in the stories) but think of the ski slope analogy in Sooner Safer Happier about taking everyone to the top of the hill.
+Instead, refining a language they already used to communicate with the BSA and developers required less tweaking to how they work.
+
+Why use an IDE? Why not Jira, Word, Google Docs, Excel, Confluence? 
+In fact at first they were using Microsoft Word and Excel and then those files were parsed and converted to automation it was like coding with Microsoft Notepad and finding your errors at compile time instead of as you were typing.
+In addition to the usual benefits of using a language editor in an IDE the [Xtext framework](https://eclipse.dev/Xtext/) gave us an API to query all the test cases written by everyone in my team.
+
+To be clear this is like the [Java Parser API](https://javaparser.org/) I use to generate Java code automatically.
+Through this API, you could extract whichever data you wanted to transform it into whatever you wanted from all of the tests written by all of the testers in the entire team for every component they tested.
+It also ensured that the language used to describe the business domain was mapped to the system that was being tested.
+

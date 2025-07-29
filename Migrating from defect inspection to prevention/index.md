@@ -19,6 +19,6 @@ I've made notes [here in the blog](/sheepdogblog/jekyll/update/2025/07/24/creati
 6. [Kaizen](Kaizen)
 7. [Jidoka](Jidoka)
 8. [Poka Yoke](Poka%20Yoke)
-9. [Just In Time](Just%20In%20Time)
-10. [Kanban](Kanban)
+9. [Kanban](Kanban)
+10. [Just In Time](Just%20In%20Time)
 11. [Heijunka](Heijunka)
