@@ -2,6 +2,10 @@
 title: The Awesome Machine
 ---
 
+<a href="https://www.mcchrystalgroup.com/about/books/detail/2015/05/12/team-of-teams-new-rules-of-engagement-for-a-complex-world" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/tot.png" alt="Team of Teams" title="Team of Teams" style="width:50%; display: block;" />
+</a>
+
 What initially took 5 business days and 10+ developers to deploy to production was eventually done automatically in a few hours, 2 hours ahead of schedule the first time.
 When I was hired to join the team, every single senior developer with almost a decade or more of experience said it couldn't be done.
 Since I had done it before, I chipped away at it and eventually with support from my manager, willing developers and the architecture team we got there. 

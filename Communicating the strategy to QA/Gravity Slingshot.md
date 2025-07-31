@@ -2,6 +2,10 @@
 title: Gravity Slingshot
 ---
 
+<a href="https://en.wikipedia.org/wiki/Gravity_assist" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/gravity.png" alt="Maginot Line" title="Maginot Line" style="width:100%; display: block;" />
+</a>
+
 Let's say folks were not afraid anymore, but if the journey wasn't feasible, they wouldn't do it.
 When explaining my strategy to transform the team, I used the analogy of a gravity slingshot. 
 Basically gravity slingshots are used because it’s not practical to simply add more fuel to power a spacecraft. 
@@ -13,6 +17,7 @@ The more we thought about the steps, the more work it added. Eventually I'm pret
 The idea of building momentum as we worked towards a goal (planet) and then using that to boost us to the next made sense to my team.
 An example of the set of milestones or planets was converting Word documents to SoapUI projects automatically at first, then switching our destination to Robot Framework, then finally to Cucumber with Java hoping to make the long journey to Model Based Testing.
 The momentum was the positive feedback loop which encouraged people to voluntarily take even more small steps and try more experiments as they freed up more of their time.
+I think Ryan Tierny called this improvement momentum.
 
 We went from less than ten improvements from my first year to more than a hundred in my last. 
 I went from twidling my thumbs asking people for suggestions to not being able to keep up implementing everyone's ideas. 

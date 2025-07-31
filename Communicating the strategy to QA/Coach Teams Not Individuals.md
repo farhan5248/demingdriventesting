@@ -2,6 +2,8 @@
 title: Coach Teams Not Individuals
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Everything is about the team. I don&#39;t coach football players, I coach football teams.&quot;<br><br>- José Mourinho <a href="https://t.co/sWCnxDYqVD">pic.twitter.com/sWCnxDYqVD</a></p>&mdash; IM🇵🇹 (@Iconic_Mourinho) <a href="https://twitter.com/Iconic_Mourinho/status/1500807659439677443?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Until I joined the QA team, my job titles were either developer, senior developer or development lead. 
 I was in fact the least qualified person to manage a QA team in a traditional sense. 
 How did I get the position then? The long story short is that the QA director was let go and my development director inherited her teams. 

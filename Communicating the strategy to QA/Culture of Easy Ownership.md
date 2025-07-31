@@ -2,9 +2,12 @@
 title: Culture of Easy Ownership
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mL3zT1iIKw?si=4XjJ1O9T79iEkdkf&amp;clip=UgkxFngcE-tASWvKd3YBlFCtMhTFgZbkaqoo&amp;clipt=ENjJTRiYglA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This was our direction or challenge
 
-*We want to become a Quality Assistance team. We will make it easier for developers to own the execution of our test cases such that we assist them build defect free code. We'll do this by having a culture of easy ownership so we can swarm to solve problems and collectively free up our team's time and having a culture of continuous improvement where we keep looking for better ways of working.*
+
+> We want to become a Quality Assistance team. We will make it easier for developers to own the execution of our test cases such that we assist them build defect free code. We'll do this by having a culture of easy ownership so we can swarm to solve problems and collectively free up our team's time and having a culture of continuous improvement where we keep looking for better ways of working.
 
 I should emphasise that the improvements were not intended to make individual efficiency by optimising locally. 
 They had to optimise globally by taking a systems thinking view of our goal. 

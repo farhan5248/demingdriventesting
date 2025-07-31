@@ -1,6 +1,10 @@
 ---
 title: System of Profound Knowledge
 ---
+<a href="https://www.amazon.com/Economics-Industry-Government-Education-Press/dp/0262535939" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/tne.jpg" alt="The New Economics" title="The New Economics" style="width:50%; display: block;" />
+</a>
+
 
 I'll start with the disclaimer that when I came across the SoPK, I had no one to discuss it with or learn from.
 What I'm describing here is how I interpreted it at the time shortly after joining the QA team in 2018.

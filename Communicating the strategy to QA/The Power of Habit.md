@@ -2,6 +2,10 @@
 title: The Power of Habit
 ---
 
+<a href="https://charlesduhigg.com/the-power-of-habit/" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/duhigg.webp" alt="The Power of Habit" title="The Power of Habit" style="width:50%; display: block;" />
+</a>
+
 Establish your next target condition. 
 I had read about Paul O'Neil, the CEO of ALCOA and the culture of safety that they had there. 
 Changing a culture is changing group habit. The next target was always the next habit to develop. 

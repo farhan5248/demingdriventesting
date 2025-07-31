@@ -2,10 +2,14 @@
 title: The Neo Nurture Incubator
 ---
 
+<a href="https://www.designthatmatters.org/past-projects" target="_blank">
+  <img src="{{ site.baseurl }}/assets/images/neonurture.jpg" alt="NeoNurture" title="NeoNurture" style="width:50%; display: block;" />
+</a>
+
 Grasp the current condition. I had to start with the skills people already had and come up with creative ways to build on that. 
 The state of things was such that nobody had time to learn any other skills. 
 
-I took inspiration from the [NeoNurture Incubator](https://content.time.com/time/specials/packages/article/0,28804,2029497_2030618_2029499,00.html). Long story short, when it broke down, nobody could fix it because they didn't have the skills. 
+I took inspiration from the [NeoNurture Incubator](https://www.youtube.com/watch?v=0af00UcTO-c). Long story short, when it broke down, nobody could fix it because they didn't have the skills. 
 So the designers made an incubator that looked it was made out of car parts. 
 Why? Because the folks in that country were very good at fixing their cars and keeping them running for years. 
 After the design change, anytime the part that looked like a headlight broke, they could walk out onto the street and ask someone to come in and fix it. 

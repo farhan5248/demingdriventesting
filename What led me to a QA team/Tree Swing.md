@@ -2,6 +2,10 @@
 title: Tree Swing
 ---
 
+<a href="https://2h3ph3rd.medium.com/how-a-tree-swing-cartoon-can-help-you-build-better-software-959849b35349" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/tree.webp" alt="Tree Swing" title="Tree Swing" style="width:100%; display: block;" />
+</a>
+
 My developers were good at what they did. We had our own automated tests. While the pipeline didn't have as much tests as I'd now like, it did have enough. 
 After the pipeline was implemented up to production, the next release  had a major change.
 The developer working on it did her testing, it was all good. However when the code got to QA, that's when I started noticing some problems with the usefulness of the pipeline.

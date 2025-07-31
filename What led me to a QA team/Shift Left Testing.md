@@ -2,6 +2,10 @@
 title: Shift Left Testing
 ---
 
+<figure>
+    <img src="{{ site.baseurl }}/assets/images/toast.png" alt="You burn, I'll scrape" title="You burn, I'll scrape" style="width:50%;" />
+</figure>
+
 The way I try to explain BDD is that it's like TDD but with the 3 amigos. 
 For the next release we used Cucumber but since the QA team still preferred to do their own thing, only the BSA and developers used it. 
 The developer was a new senior developer and the code for this feature had to be written in Java for the first time. 
@@ -22,7 +26,9 @@ I'll see this pattern again working with the COBOL developers; new junior develo
 Overall there was much less re-work on both teams but the delay still existed. 
 Yet again, it was the QA process to manually test everything first before running anything automated so we had to wait for weeks. 
 Had the manual tester been part of 3 amigos exercise, not only would we have no defects and re-work but also no days/weeks long delays. 
-It's around this time did I learn of the phrase shift left testing and [Dr Deming's quote of "You burn, I'll scrape"](https://deming.org/you-burn-ill-scrape/)
+
+It's around this time did I learn of the phrase shift left testing and [Dr Deming's quote of "You burn, I'll scrape"](https://deming.org/you-burn-ill-scrape/).
+Instead of automating the detection and scraping the burnt toast, why not prevent it from getting burnt in the first place with a temperature sensor?
 
 As a reminder, even though the architecture team was closely aligned with my dev team we weren't on the same team, we had different managers.
 I concluded that the tester had to be part of the dev team or at least have leadership that was aligned with the development team. 
