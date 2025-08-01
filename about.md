@@ -42,9 +42,7 @@ To make it concrete, the QA testers needed to write their test cases in the ubiq
 At first the process of inspecting for defects became more efficient. 
 The testers were generating test automation and running it progressively earlier.
 Eventually in the case of one team, the testers were running their automated tests alongside developers in lower environments so that quality was built-in. 
-The result was that almost all of that QA team's end-to-end tests were run as business component tests before the code was delivered to the QA environment and was virtually defect-free.
-
-I should add that the integration process was weak and we wound up implementing the [Test Hourglass anti-pattern](https://testing.googleblog.com/2020/11/fixing-test-hourglass.html) but at least the last phase was done in a week or so, down from months
+The result was that almost all of that QA team's end-to-end tests were run as business component tests before the code was delivered to the QA environment.
 
 # The Ubiquitous Language
 

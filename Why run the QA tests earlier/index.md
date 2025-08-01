@@ -16,5 +16,6 @@ I decided to leave the QA team when I finally had data from my QA team and the C
 
 1. [Can QA tests be run against an incomplete system?](1)
 2. [Does running the QA team tests during coding slow developers down?](2)
-3. [Does it matter if the tests actually drive the development?](3)
-4. [At what point should developers be involved?](4)
+3. [Does it reduce how much time QA has to execute tests?](5)
+4. [Does it matter if the tests actually drive the development?](3)
+5. [At what point should developers be involved?](4)

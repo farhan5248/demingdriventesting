@@ -21,7 +21,7 @@ Again I thought of the project management tree swing. The tester was in a silo a
 The other source of defects was from the other developer. He was also senior but not new. The two developers worked closely together helping each other. 
 The more experienced developer however could re-use code for his part which was quite small in comparison to the Java code. 
 He had roughly ten times fewer test cases, but ten times more defects. 
-I'll see this pattern again working with the COBOL developers; new junior developer with more tests producing virtually defect free code.
+I'll see this pattern again working with the COBOL developers; new junior developer with more tests producing virtually defect-free code.
 
 Overall there was much less re-work on both teams but the delay still existed. 
 Yet again, it was the QA process to manually test everything first before running anything automated so we had to wait for weeks. 
