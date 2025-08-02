@@ -2,7 +2,7 @@
 title: Heijunka - Levelling
 ---
 
-There's two types of levelling that I was interested in, new features and production bugs.  
+There's two types of leveling that I was interested in, new features and production bugs.  
 
 1. Let's say a tester had to work with two developers, one on feature A and the other on B.
 They could do A first for a month and then B for the next month but didn't.

@@ -3,7 +3,7 @@ title: Shift Left Testing
 ---
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/toast.png" alt="You burn, I'll scrape" title="You burn, I'll scrape" style="width:50%;" />
+    <img src="{{ site.baseurl }}/assets/images/amigos.jpg" alt="Three Amigos" title="Three Amigos" style="width:50%;" />
 </figure>
 
 The way I try to explain BDD is that it's like TDD but with the 3 amigos. 

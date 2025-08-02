@@ -2,7 +2,7 @@
 title:  Mura - Unevenness
 ---
 
-Though I had come across the term [SPC](https://deming.org/the-first-control-chart/) I didn't know anyone who knew anyting about them.
+Though I had come across the term [SPC](https://deming.org/the-first-control-chart/) I didn't know anyone who knew anything about them.
 As a result, I basically had this one type of chart that I used the entire 4.5 years I was on the QA team.
 I looked at this myself and sometimes drew it out for people but rarely referred to it in any meeting with anyone.
 Looking back I can describe the transformation journey of the COBOL testers using these charts.
@@ -11,7 +11,7 @@ Imagine each one is for a feature that lasts 3 months; everyone on the team had 
 The x axis is time from the moment the tester started writing test cases.
 The y axis is time it takes to correct a failure. 
 Some failures were due to code bugs but others were test planning failures.
-Examples of test planning failures are incorrect test case expecations or typos in the test case which create errors in the test automation generation.
+Examples of test planning failures are incorrect test case expectations or typos in the test case which create errors in the test automation generation.
 
 I'll draw nice pictures later but put Ascii art for now :P
 ```
@@ -44,7 +44,7 @@ This made the delays due to manual execution basically disappear and now the tes
 Next we tried to mistake proof writing test cases to eliminate automation generation errors.
 That's when I introduced [Poka Yoke](Poka%20Yoke). 
 If the code was delivered to QA before we finished writing all the tests, then we ran what we had.
-This was done to prevent re-work in the test case expecations.
+This was done to prevent re-work in the test case expectations.
 There were still some tests that had to be re-worked but not as many.
 ```
 |  dev       || qa           || reg  | 
@@ -54,9 +54,9 @@ There were still some tests that had to be re-worked but not as many.
 Finally the testers and developers were writing their tests and running them in small batches daily and sometimes hourly in the lowest dev environment.
 There was re-work but none that I could detect because almost all issues were fixed within the day.
 By this point I had explained [Just In Time](Just%20In%20Time) to the team.
-Most regressions were run in the dev environment but some data was only available in QA
-There were still regression defects or integration defects with the non COBOL system.
-The former were quickly fixed and the latter I treated as special cause variation.
+Most regressions were run in the dev environment but some data was only available in QA. 
+There were still regression defects or integration defects with the non COBOL system. 
+The former were quickly fixed and the latter I treated as special cause variation. 
 The code was delivered to QA later at this point, but the whole process was smoother and we were still done ahead of schedule.
 ```
 |  dev              || qa + reg  | 

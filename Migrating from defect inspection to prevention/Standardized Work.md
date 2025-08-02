@@ -1,5 +1,5 @@
 ---
-title: Standardized Work
+title: Standard Work
 ---
 
 I aimed to standardize the work for these reasons
@@ -42,7 +42,7 @@ Reflecting on that I'd say one goal of the documentation was to prevent problems
 So we started with light documentation and then only updated it when we found another source of variation could be prevented.
 
 These are some examples
-1. Install Eclipse. In the begining, that was the step, but in the end, we had to specify the version and package type as well. If we didn't specify either then, later when someone needed to use an EMF feature, they'd try and install the plug-ins but often get them wrong so we specified the package. Similar for the version, there were little issues folks would run into and then work around it, which would create overburden. To me these things were perceived as special cause variation, but really there was a common cause for all the incompatibility issues we ran into. Because we hadn't defined the step of setting up the testers laptop, it actually got in the way of us properly measuring the impact of code generation on test execution.
+1. Install Eclipse. In the beginning, that was the step, but in the end, we had to specify the version and package type as well. If we didn't specify either then, later when someone needed to use an EMF feature, they'd try and install the plug-ins but often get them wrong so we specified the package. Similar for the version, there were little issues folks would run into and then work around it, which would create overburden. To me these things were perceived as special cause variation, but really there was a common cause for all the incompatibility issues we ran into. Because we hadn't defined the step of setting up the testers laptop, it actually got in the way of us properly measuring the impact of code generation on test execution.
 2. Test it. How two testers interpreted a test step and therefore passed or failed a test also varied around coverage and retesting. Because of time constraints mainly, they didn't test beyond the original failing test when a bug was fixed or either they had breadth but not depth of coverage or vice versa. By specifying that they use the [ubiquitous language](/demingdriventesting/about) to write a test automated test execution could be leveraged earlier and more frequently. Also the DSL ensured we'd work towards a graph model and model based testing which would slowly allow us to choose graph traversal algorithms to select tests coverage.
 3. Mock it. If you just mock someone else's code, then you might discover you're not on the same page as them when you do integration tests. 
 Better is to have them make the mock and give it to you as a promise of functionality.

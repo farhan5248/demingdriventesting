@@ -30,6 +30,3 @@ Another tester would then use the same component to setup their data to adjudica
 If the helpdesk app tester had to test a change to that app, they'd do the job of the first two!
 Gradually as the language was developed and there was less assumed knowledge needed for writing or executing test cases, an individual could test all three components.
 This eliminated the need for meetings or the duplication of test steps.
-
-
-
