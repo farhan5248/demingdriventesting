@@ -9,7 +9,7 @@ The previous version of this page was a collection of TPS related buzzwords.
 I wasn't sure in what order to present them but tried to do so in the order which I introduced them to my team.
 Recently I came across [this episode of the Shop Floor](https://open.spotify.com/episode/14Nbr9nPnIhBYsYlXJY3xI).
 I like the way [Chris Roser](https://www.allaboutlean.com/christoph-roser/) has explained things because it aligns with what I remember.
-I've made notes [in the blog](/sheepdogblog/jekyll/update/2025/07/24/creating-pull-in-your-factory) with links back to detailed examples here.
+I've made notes [in the blog](/sheepdogblog/shop-floor/2025/07/24/creating-pull-in-your-factory) with links back to detailed examples here.
 
 1. [Muda](Muda)
 2. [Mura](Mura)
