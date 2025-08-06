@@ -28,7 +28,7 @@ This is the list of wastes from the point of view of my QA team:
 5. Overproduction: Unnecessary test cases to meet a metric of x test cases for y days of coding.
 6. Overprocessing: Unnecessary steps in the test case or over complicated test setups or doing e2e testing when a unit test is good enough.
 7. Defects: Test case writing defects. The system was complex and difficult to understand in its entirety.
-8. Skills: Testers who were able to learn to code like Pratik but whose time was wasted doing manual testing.
+8. Skills: Testers who were able to learn to code but whose time was wasted doing manual testing.
 
 The more waste was reduced, the more free time people had to try new things or help others.
 This meant more kaizens and even more capacity for an individual or capacity for the team.

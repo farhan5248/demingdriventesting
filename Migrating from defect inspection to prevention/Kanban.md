@@ -23,7 +23,7 @@ On the development side I'd say they had inventories of:
 The [coin flip game](https://www.leansimulations.org/2010/11/penny-game.html) demonstrates the benefit of using smaller batch sizes.
 I demonstrated it for my team and told them we want [one piece flow](https://www.allaboutlean.com/one-piece-flow/) (in my mind trunk based development or continuous delivery) with as close to 0 but not 0 inventory.
 Over months we kept reducing the size of batches and that reduced the size of inventories above.
-1. No tests were waiting to be executed because they were executed hourly or daily.
+1. Nothing was waiting to be executed because they were executed hourly or daily.
 2. Nothing was waiting to be automated because that process was automated.
 3. Nothing was waiting to be reviewed since the tester created their own automation.
 4. Developers found and fixed bugs by running the tests so virtually no defects were found in QA waiting to be re-tested.
