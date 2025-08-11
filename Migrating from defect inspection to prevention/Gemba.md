@@ -4,7 +4,7 @@ title: Gemba - Place of work
 
 First I started spending time with individual testers to understand their workflow. 
 I was doing an informal Value Stream Map in my head. 
-I never told my team what a VSM was as I tried to keep the buzzword count to a minimum. 
+If I remember correctly, it's because I felt that even if people tell me what the process is, it probably wouldn't reflect reality.
 I explained that I was trying to understand how they interacted with each other, not monitor them doing their work. 
 My questions were more around who asked them to do a task and who was the next person in the chain or whether they knew why things were done that way. 
 

@@ -16,11 +16,11 @@ I also learnt about his 14 points and the need to cease dependency on inspection
 The latter included the psychology of change which I found was essential in trying to solve what are socio-technical problems.
 I like to take a first principles approach and so I concluded that what Dr Deming described made for a good foundation. 
 
-Additionally Lean sadly seems to be misunderstood.
+Additionally as it is with other concepts, there seems to be multiple definitions on what it is.
 I was concerned that if people on my team went Googling what Lean is, they'd get information that would discourage them from trying it out.
 Some folks think Lean six-sigma is the same as Lean which is the same as TPS.
 I admit that I think the latter two are the same and know nothing about the six-sigma one (I've so far found no use for it).
-From the podcasts I listen to I hear consultants say the same thing; folks think it doesn't apply because they don't make anything (my QA team didn't make software), or they don't make cars or they don't make the same thing over and over again.
+From the podcasts I listen to I hear consultants say similar things; folks think it doesn't apply because they don't make anything (my QA team didn't make software), or they don't make cars or they don't make the same thing over and over again.
 My response is that lean is about the process. Even if you don't make cars, the same car or make anything at all, your process is not changing everytime you do the job. 
 And so this aligns nicely with Statistical Process Control and the emphasis on process quality and inspecting products to find defects in the process rather than inspecting the product to ensure quality.
 
@@ -53,12 +53,14 @@ In my case, I considered the testers as the domain experts as did the developers
 This is what my QA team did and what I've done to create the test code for the supporting code. 
 
 Regardless of whether the test was intended to be automated or not in the current process, everything was written in that language.
-I won't go into the details of how we arrived at the conclusion that it was the goal over 3 years here, that's covered in the stories.
+I won't go into the details of how we arrived at the conclusion that it was the goal over 3 years here, that's covered elsewhere.
 I will say that I started out with the intention to adopt a keyword driven test automation approach but that had its own issues, namely it devolving into a programming language.
 
 Why the Ubiquitous language, why not just teach them to write the Java/Python code?
 Teaching that many people to code would be more challenging (details explained in the stories) but think of the ski slope analogy in Sooner Safer Happier about taking everyone to the top of the hill.
 Instead, refining a language they already used to communicate with the BSA and developers required less tweaking to how they work.
+The one constraint that I added on their language was to do with [finite state machines as described by Bob Martin](https://blog.cleancoder.com/uncle-bob/2018/06/06/PickledState.html).
+This was so that we could easily adopt model based testing and reap its benefits.
 
 Why use an IDE? Why not Jira, Word, Google Docs, Excel, Confluence? 
 In fact at first they were using Microsoft Word and Excel and then those files were parsed and converted to automation it was like coding with Microsoft Notepad and finding your errors at compile time instead of as you were typing.
