@@ -63,7 +63,8 @@ The one constraint that I added on their language was to do with [finite state m
 This was so that we could easily adopt model based testing and reap its benefits.
 
 Why use an IDE? Why not Jira, Word, Google Docs, Excel, Confluence? 
-In fact at first they were using Microsoft Word and Excel and then those files were parsed and converted to automation it was like coding with Microsoft Notepad and finding your errors at compile time instead of as you were typing.
+In fact at first they were using Microsoft Word and Excel and then those files were parsed and converted to automation.
+It was like coding with Microsoft Notepad and finding your errors at compile time instead of as you were typing.
 You can read more about [language workbenches on Martin Fowler's site](https://martinfowler.com/articles/languageWorkbench.html)
 
 In addition to the usual benefits of using a language editor in an IDE the [Xtext framework](https://eclipse.dev/Xtext/) gave us an API to query all the test cases written by everyone in my team.
