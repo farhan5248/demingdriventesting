@@ -13,3 +13,4 @@ I should add that I rarely got anything wrong, thanks to heroic effort to memori
 2. [Tree Swing](Tree%20Swing)
 3. [Maginot Line](Maginot%20Line)
 4. [Shift Left Testing](Shift%20Left%20Testing)
+5. [Setting a Good Example](Setting)
