@@ -18,4 +18,6 @@ Each time, the developer would make the changes, run her tests and it would be i
 This would continue for weeks, It was like having a sports car that can do 0-100 in 2 seconds but is stuck in rush hour traffic. 
 Every time we thought we were done we weren't. Every time we moved forward, initially we did quickly but then just sat there and waited. 
 I slowly realised that even though we made our part go faster, it didn't mean we were on the same page as the QA team in their silo.
-If you've never seen it, the [project management tree swing](https://2h3ph3rd.medium.com/how-a-tree-swing-cartoon-can-help-you-build-better-software-959849b35349) came to mind.
+If you've never seen it, the [project management tree swing][1] came to mind.
+
+[1]: https://2h3ph3rd.medium.com/how-a-tree-swing-cartoon-can-help-you-build-better-software-959849b35349

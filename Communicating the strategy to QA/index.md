@@ -15,11 +15,20 @@ I wanted to make sure I wasn't so biased in blindly believing that Continous Del
 So I decided I'd just study the variation, identify common cause ones and do PDCA.
 I wanted to see what process and practice emerge if we systematically and scientifically removed bottlenecks, constraints and wastes.
 
-1. [Coach Teams Not Individuals](Coach%20Teams%20Not%20Individuals)
-2. [Start With Why](Start%20With%20Why)
-3. [Gravity Slingshot](Gravity%20Slingshot)
-4. [Culture of Easy Ownership](Culture%20of%20Easy%20Ownership)
-5. [The Neo Nurture Incubator](The%20Neo%20Nurture%20Incubator)
-6. [The Power of Habit](The%20Power%20of%20Habit)
-7. [Diffusion of Innovation](Diffusion%20of%20Innovation)
-8. [Shu Ha Ri](ShuHaRi)
+1. [Coach Teams Not Individuals][1]
+2. [Start With Why][2]
+3. [Gravity Slingshot][3]
+4. [Culture of Easy Ownership][4]
+5. [The Neo Nurture Incubator][5]
+6. [The Power of Habit][6]
+7. [Diffusion of Innovation][7]
+8. [Shu Ha Ri][8]
+
+[1]: Coach%20Teams%20Not%20Individuals
+[2]: Start%20With%20Why
+[3]: Gravity%20Slingshot
+[4]: Culture%20of%20Easy%20Ownership
+[5]: The%20Neo%20Nurture%20Incubator
+[6]: The%20Power%20of%20Habit
+[7]: Diffusion%20of%20Innovation
+[8]: ShuHaRi

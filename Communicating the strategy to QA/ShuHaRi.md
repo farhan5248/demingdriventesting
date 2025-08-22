@@ -11,7 +11,7 @@ My goal then was to eliminate the hand-off to QA so that developers could run th
 
 I took inspiration from two practices:
 1. When I joined the QA team, I asked a friend's brother who is a professional civil engineer to show me how he worked.
-He demonstrated the use of [STAAD](https://www.bentley.com/software/staad/).
+He demonstrated the use of [STAAD][1].
 Their website claims that STAAD is not a CAD software. STAAD is specifically designed for structural analysis and design.
 What I saw was basically him creating/designing and running a simulation (testing) every few minutes.
 What he didn't do is design only and then hand the design to another team to press the simulate button.
@@ -38,7 +38,7 @@ It was implemented as a collection of Jenkins jobs that they could schedule and 
 Ha was making it easier for developers to run QA's tests in their environment using QA's frameworks which their code had to work with.
 The goal was to show them how the API could be used to create data that could be inserted into their databases or test automation like SoapUI (a tool they were familiar with)
 This way they prevent bugs because they'd run the tests earlier.
-Ambassador Spock said, [the adoption needs of the many outweighs the adoption needs of the few](https://www.youtube.com/watch?v=Xa6c3OTr6yA).
+Ambassador Spock said, [the adoption needs of the many outweighs the adoption needs of the few][2].
 Eventually the COBOL developers had to learn to use Eclipse, Java etc because my team wanted to use Cucumber.
 This didn't feel right to me, to impose a new language and framework on developers just to run a test.
 
@@ -47,9 +47,13 @@ Unfortunately, we never got that far; I left my job and the new manager of my de
 Ideally if the Java library was converted to a REST API, then you could run COBOL code that did REST querries.
 The REST API would let anyone retrieve test steps and their data or just the setup data as insert statements per DB table.
 We only used the API this way in our own test automation, that is, even the QA automation itself was auto-generated from the Xtext DSL files.
-A partial example is [here](https://github.com/farhan5248/sheep-dog-cloud/blob/main/sheep-dog-dev-svc/src/main/java/org/farhan/mbt/controller/UMLController.java); I'll complete it in September.
+A partial example is [here][3]; I'll complete it in September.
 
 The last thing to remember is that the API providing access to the data was only possible because of Xtext.
 It gave us a way to have parseable tests by enforcing a grammar.
 Without it, we couldn't extract information from what would basically be free-text.
 If garbage went in, what came out wouldn't be useful to developers.
+
+[1]: https://www.bentley.com/software/staad/
+[2]: https://www.youtube.com/watch?v=Xa6c3OTr6yA
+[3]: https://github.com/farhan5248/sheep-dog-cloud/blob/main/sheep-dog-dev-svc/src/main/java/org/farhan/mbt/controller/UMLController.java

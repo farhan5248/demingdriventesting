@@ -2,7 +2,7 @@
 title: Fourteen Points
 ---
 
-You can find the list of 14 points [here](https://deming.org/explore/fourteen-points/). 
+You can find the list of 14 points [here][1]. 
 11 and 12 have two parts, I only put the part that I could apply.
 The same goes for point 4, I didn't attempt to apply that.
 
@@ -14,9 +14,9 @@ The same goes for point 4, I didn't attempt to apply that.
 
 5. **Improve constantly and forever the system of production and service, to improve quality and productivity, and thus constantly decrease costs.** I interpreted this as how you achieve point 1. When I started in 2018, I made 1 or maybe 2 improvements and twiddled my thumbs most of the time waiting for suggestions. By the time I left, there was a backlog of Kaizens that me and 3 of my developers just didn't have the time for. We were pushing out changes to the Maven or Xtext plug-ins everyday.
 
-6. **Institute training on the job.** I met every single person on my team for 1:1 every week. That's right, that's like dozens of meetings weekly :) Initially it was for 30 minutes per person, then it was only for full-time employees after most contractors left, then it was pairs of folks because my throat needed a break from talking every 30 minutes. The 1:1 was simple, it was for me to ask what [Paul Akers I believe asked folks, what about your job is bugging you](https://paulakers.net/2011/general/fix-what-bugs-you). I personally trained everyone on my team until I needed to pass on the responsibility to others as I planned on leaving.
+6. **Institute training on the job.** I met every single person on my team for 1:1 every week. That's right, that's like dozens of meetings weekly :) Initially it was for 30 minutes per person, then it was only for full-time employees after most contractors left, then it was pairs of folks because my throat needed a break from talking every 30 minutes. The 1:1 was simple, it was for me to ask what [Paul Akers I believe asked folks, what about your job is bugging you][2]. I personally trained everyone on my team until I needed to pass on the responsibility to others as I planned on leaving.
 
-7. **Institute leadership. The aim of supervision should be to help people and machines and gadgets to do a better job. Supervision of management is in need of overhaul, as well as supervision of production workers.** I didn't do the job of managing my QA team like its previous managers. I instead coached my team-leads on how to make decisions without me by providing data and clear guidelines. I instead managed the system of work and continuous improvement. I wanted my 3 team-leads at the time to be completely autonomous and reach out to each other when they needed help. [This clip](https://www.youtube.com/watch?v=PhuKJWm1_fQ) about purpose driven leadership by Simon Sinek is fun to watch.
+7. **Institute leadership. The aim of supervision should be to help people and machines and gadgets to do a better job. Supervision of management is in need of overhaul, as well as supervision of production workers.** I didn't do the job of managing my QA team like its previous managers. I instead coached my team-leads on how to make decisions without me by providing data and clear guidelines. I instead managed the system of work and continuous improvement. I wanted my 3 team-leads at the time to be completely autonomous and reach out to each other when they needed help. [This clip][3] about purpose driven leadership by Simon Sinek is fun to watch.
 
 8. **Drive out fear, so that everyone may work effectively for the company.** Just as you have upper case Agile which is not the one you want. This place was upper case Pathological, which isn't the pathological you want :) . To me this was about creating pyschological safety. That said, in the beginning I had to use the fear of them losing their jobs to motivate them to learn new skills. What I had told them is that whether they disagree or agree with me, either was fine, as long as they went through an informal PDCA cycle. Having everyone agree with me isn't necessarily a good thing if it's out of fear. I wanted them to see that I value them following the scientific method when it came to doing their work more than I valued them agreeing with me; I'm not right all the time afterall.
 
@@ -33,3 +33,7 @@ This was simple, instead of lots of test cases written for the impossible goal o
 
 14. **Put everybody in the company to work to accomplish the transformation. The transformation is everybody's job.**
 I wasn't the CEO, but I certainly made sure everybody on my team was part of the transformation. Nobody was getting carried; supported yes, carried no. This is because they were improving themselves, it's like nobody can go to the gym for you, you have to do the work yourself and yes, it's hard.
+
+[1]: https://deming.org/explore/fourteen-points/
+[2]: https://paulakers.net/2011/general/fix-what-bugs-you
+[3]: https://www.youtube.com/watch?v=PhuKJWm1_fQ

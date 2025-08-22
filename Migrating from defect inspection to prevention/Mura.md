@@ -2,7 +2,7 @@
 title:  Mura - Unevenness
 ---
 
-Though I had come across the term [SPC](https://deming.org/the-first-control-chart/) I didn't know anyone who knew anything about them.
+Though I had come across the term [SPC][1] I didn't know anyone who knew anything about them.
 As a result, I basically had this one type of chart that I used the entire 4.5 years I was on the QA team.
 I looked at this myself and sometimes drew it out for people but rarely referred to it in any meeting with anyone.
 Looking back I can describe the transformation journey of the COBOL testers using these charts.
@@ -26,7 +26,7 @@ In the beginning all the tests were written, then executed manually when the cod
 What you'd see is long delays between code bugs caused by manual time consuming inspection with tests passing.
 Manually executing the tests wasn't the only reason for the delays between finding bugs, it was having to re-work the test cases that had incorrect expectations.
 At the end you'd have regression suite failures that take even longer to fix because by then the developers have moved onto next project.
-When I think about this type of re-working of the tests, I think of the story about the [Toyoda looms](https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter1/section1/item4.html)
+When I think about this type of re-working of the tests, I think of the story about the [Toyoda looms][2]
 ```
 |  dev       || qa                       || reg  | 
 --------------/\-^-^/\-^-^/\-^-^/\-^-^/\/\//\\//\\
@@ -62,3 +62,6 @@ The code was delivered to QA later at this point, but the whole process was smoo
 |  dev              || qa + reg  | 
 ---------------------/\---------/\
 ```
+
+[1]: https://deming.org/the-first-control-chart/
+[2]: https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter1/section1/item4.html

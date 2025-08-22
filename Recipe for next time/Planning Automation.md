@@ -9,7 +9,7 @@ The code completion features of Xtext combined with a model can help suggest nex
 
 # Model Based Testing
 
-I started socialising the concept of model based testing (MBT) to my team. The team estimated that it would cut down 75% of the front-end test planning time and 90% of the back-end test planning time. The tool we selected in the end was the Curiosity Test Modeller which I liked best. I like this tool because everything you can do with the GUI, you can do via the REST API. An example of this can be seen at [Everfi](https://www.youtube.com/watch?v=RFFCG-2u6H8). My intention was to have this tool used by the complex subsystem team since there is a bit of a learning curve to it. They'd use it to refactor tests or review the test cases. If you know who Simon Brown is, I figured it would be like a testing version of [that](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted). 
+I started socialising the concept of model based testing (MBT) to my team. The team estimated that it would cut down 75% of the front-end test planning time and 90% of the back-end test planning time. The tool we selected in the end was the Curiosity Test Modeller which I liked best. I like this tool because everything you can do with the GUI, you can do via the REST API. An example of this can be seen at [Everfi][1]. My intention was to have this tool used by the complex subsystem team since there is a bit of a learning curve to it. They'd use it to refactor tests or review the test cases. If you know who Simon Brown is, I figured it would be like a testing version of [that][2]. 
 
 However in the beginning people have a hard time visualising a model. I tried using PlantUML diagrams and D3.js to show them how their test cases can be used to create models automatically. I think the biggest barrier to entry is the ability to quickly create a model. Even if you have existing feature files, if they don't have sufficient detail, they're not very useful.
 
@@ -28,3 +28,6 @@ The last thing to cut down on test planning was the test plan document. The team
 When developers were running tests daily, this summary wasn't needed by them. It was still needed though by the Business Analysts who had to sign-off on the test coverage as part of the audit. This was largely a pointless process and I'd be surprised if most of them even opened the document because they believed the testers knew better what the coverage should be. 
 
 The team's suggestion was to use Cucumber tags and descriptions creatively such that a summary could be derived automatically. That combined with AsciiDoctor fragments for boiler plate contents, would be automatically turned into a PDF for the purpose of the audit.
+
+[1]: https://www.youtube.com/watch?v=RFFCG-2u6H8
+[2]: https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted

@@ -27,8 +27,10 @@ Overall there was much less re-work on both teams but the delay still existed.
 Yet again, it was the QA process to manually test everything first before running anything automated so we had to wait for weeks. 
 Had the manual tester been part of 3 amigos exercise, not only would we have no defects and re-work but also no days/weeks long delays. 
 
-It's around this time did I learn of the phrase shift left testing and [Dr Deming's quote of "You burn, I'll scrape"](https://deming.org/you-burn-ill-scrape/).
+It's around this time did I learn of the phrase shift left testing and [Dr Deming's quote of "You burn, I'll scrape"][1].
 Instead of automating the detection and scraping the burnt toast, why not prevent it from getting burnt in the first place with a temperature sensor?
 
 As a reminder, even though the architecture team was closely aligned with my dev team we weren't on the same team, we had different managers.
-I concluded that the tester had to be part of the dev team or at least have leadership that was aligned with the development team. 
+I concluded that the tester had to be part of the dev team or at least have leadership that was aligned with the development team.
+
+[1]: https://deming.org/you-burn-ill-scrape/ 

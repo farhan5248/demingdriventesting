@@ -9,7 +9,7 @@ title: The Neo Nurture Incubator
 Grasp the current condition. I had to start with the skills people already had and come up with creative ways to build on that. 
 The state of things was such that nobody had time to learn any other skills. 
 
-I took inspiration from the [NeoNurture Incubator](https://www.youtube.com/watch?v=0af00UcTO-c). Long story short, when it broke down, nobody could fix it because they didn't have the skills. 
+I took inspiration from the [NeoNurture Incubator][1]. Long story short, when it broke down, nobody could fix it because they didn't have the skills. 
 So the designers made an incubator that looked it was made out of car parts. 
 Why? Because the folks in that country were very good at fixing their cars and keeping them running for years. 
 After the design change, anytime the part that looked like a headlight broke, they could walk out onto the street and ask someone to come in and fix it. 
@@ -31,3 +31,5 @@ Another smaller testing team did a demo, the lady presenting was a master of all
 The tester there I believe learnt everything herself and used those tools to make her life easier.
 Her tests were run by the developers too.
 Like my team, she defined the language, not someone else.
+
+[1]: https://www.youtube.com/watch?v=0af00UcTO-c

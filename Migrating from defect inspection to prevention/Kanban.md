@@ -20,8 +20,8 @@ On the development side I'd say they had inventories of:
 1. Code sitting on branches waiting to be deployed to QA.
 2. Pull requests waiting to be merged.
 
-The [coin flip game](https://www.leansimulations.org/2010/11/penny-game.html) demonstrates the benefit of using smaller batch sizes.
-I demonstrated it for my team and told them we want [one piece flow](https://www.allaboutlean.com/one-piece-flow/) (in my mind trunk based development or continuous delivery) with as close to 0 but not 0 inventory.
+The [coin flip game][1] demonstrates the benefit of using smaller batch sizes.
+I demonstrated it for my team and told them we want [one piece flow][2] (in my mind trunk based development or continuous delivery) with as close to 0 but not 0 inventory.
 Over months we kept reducing the size of batches and that reduced the size of inventories above.
 1. Nothing was waiting to be executed because they were executed hourly or daily.
 2. Nothing was waiting to be automated because that process was automated.
@@ -33,4 +33,7 @@ Imagine each batch of tests as necessary inputs for code to be created.
 I taught the testers to craft/amend their git commits and only when they had the next batch of tests, they would push it. 
 Each commit had to keep a developer busy for roughly a day.
 Before this, testers would save up a week's worth of work and then push it at the end.
-Over time they slowly learnt to match the pace of the developers and commit often and early. 
+Over time they slowly learnt to match the pace of the developers and commit often and early.
+
+[1]: https://www.leansimulations.org/2010/11/penny-game.html
+[2]: https://www.allaboutlean.com/one-piece-flow/ 

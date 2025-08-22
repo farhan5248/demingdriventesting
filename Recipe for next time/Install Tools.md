@@ -10,7 +10,7 @@ The first tool to install was Maven. I'd use it to implement the little utilitie
 
 # Eclipse or VSCode
 
-The other tool to install was Eclipse. It's the IDE I was most familiar with so it was a natural choice in the beginning but later continued with it because of the Xtext framework. Also make sure they can install the custom Xtext plug-in. Nowadays you can run the [Xtext plug-in as a VSCode extension](https://github.com/cdietrich/xtext-languageserver-example).
+The other tool to install was Eclipse. It's the IDE I was most familiar with so it was a natural choice in the beginning but later continued with it because of the Xtext framework. Also make sure they can install the custom Xtext plug-in. Nowadays you can run the [Xtext plug-in as a VSCode extension][1].
 
 # Git
 
@@ -44,3 +44,5 @@ If you're wondering which tools were used by my QA team, they were:
 14. PyCharm
 15. Jenkins
 16. Maven
+
+[1]: https://github.com/cdietrich/xtext-languageserver-example

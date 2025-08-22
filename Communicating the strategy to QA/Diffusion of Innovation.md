@@ -7,10 +7,10 @@ title: Diffusion of Innovation
 Conduct experiments to get there. This is where the Kaizen come in. Sometimes it was automation (Jidoka), sometimes it was mistake prevention (Poka-Yoke) and other times it was just eliminating the need for the task.
 
 The question was though, who are the first to conduct these experiments.
-I later read about the ski slope analogy in [Sooner Safer Happier](https://itrevolution.com/product/sooner-safer-happier/) by Jonathan Smart and it was the sort of thing I was trying to avoid.
+I later read about the ski slope analogy in [Sooner Safer Happier][1] by Jonathan Smart and it was the sort of thing I was trying to avoid.
 That is, getting everyone to make changes all the time all at once.
 I wanted people to volunteer to try new things rather then telling them. 
-So next I had to figure out where everyone fit in the [curve of diffusion of innovation](https://www.youtube.com/watch?v=-g_FK1qEIZQ). 
+So next I had to figure out where everyone fit in the [curve of diffusion of innovation][2]. 
 Here's what happened when I told the team I'd help them install Eclipse and booked a short meeting to do so.
 
 1. Some folks read the instructions, installed Eclipse, and let me know it's done. I canceled the meeting. They were the innovators.
@@ -23,3 +23,6 @@ Here's what happened when I told the team I'd help them install Eclipse and book
     2. There was the one person who installed Eclipse more than once. Every time she thought she was starting Eclipse, she was basically restarting the setup and installing multiple copies of it with multiple work-spaces. Despite that, she was still able to make progress.
 
 By the time the Eclipse exercise was done, I knew in what order I'd be training people to ski.
+
+[1]: https://itrevolution.com/product/sooner-safer-happier/
+[2]: https://www.youtube.com/watch?v=-g_FK1qEIZQ

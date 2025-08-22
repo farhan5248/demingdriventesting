@@ -36,7 +36,7 @@ There was enough detail such that individuals could follow the improvement journ
 They also had to be short enough that one could make the change to their way of working whenever they had down time for an hour or so.
 An example is a simple checklist of 10 steps to installing Eclipse. 
 
-More recently I learnt about [operational definitions](https://deming.org/data-is-important-and-you-must-confirm-what-the-data-actually-says/) and their impact on variation. 
+More recently I learnt about [operational definitions][1] and their impact on variation. 
 The analogy that was given to me was if you tell someone to test something which requires measuring, whether you use a micrometer or caliper will produce different results.
 Reflecting on that I'd say one goal of the documentation was to prevent problems and therefore reduce variation in our processes.
 So we started with light documentation and then only updated it when we found another source of variation could be prevented.
@@ -49,5 +49,7 @@ Better is to have them make the mock and give it to you as a promise of function
 Even that might not be good enough if they don't test against the mock to make sure they'e keeping that promise.
 So instead of telling someone to mock something, I think I'd say, use a mock made by the service provider which they test as part of their build process.
 Here, the impact of not specifying how to mock resulted in data that would indicate that earlier testing yields little to no improvement because you still wind up with integration testing issues.
+
+[1]: https://deming.org/data-is-important-and-you-must-confirm-what-the-data-actually-says/
 
 

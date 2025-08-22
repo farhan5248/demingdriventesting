@@ -10,7 +10,7 @@ What initially took 5 business days and 10+ developers to deploy to production w
 When I was hired to join the team, every single senior developer with almost a decade or more of experience said it couldn't be done.
 Since I had done it before, I chipped away at it and eventually with support from my manager, willing developers and the architecture team we got there. 
 The only person who could understand how I felt was Andy Dufresne at the end of The Shawshank Redemption. 
-After reading [Team of Teams](https://www.thrivestreetadvisors.com/leadership-library/team-of-teams), I would call it my "awesome machine" but I soon came to realise that it wasn't as awesome.
+After reading [Team of Teams][1], I would call it my "awesome machine" but I soon came to realise that it wasn't as awesome.
 
 To give you an idea of the scale of the deployment pipeline, there were at least these environments
 1. 3 stand alone development environments
@@ -28,3 +28,5 @@ How many VMs were there in a prod-sized environment? I remember the list having 
 4. There were 6 sets of 3 nodes of Oracle databases, so 18 of those
 5. 12 Oracle IDM related servers
 6. Then there were the Splunk servers and their predecessors.
+
+[1]: https://www.thrivestreetadvisors.com/leadership-library/team-of-teams

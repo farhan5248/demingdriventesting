@@ -6,7 +6,7 @@ title: Start With Why
     <img src="{{ site.baseurl }}/assets/images/startwithwhy.jpeg" alt="Start with Why" title="Start with Why" style="width:50%; display: block;" />
 </a>
 
-[I started with why and then came the how](https://itrevolution.com/articles/pattern-1-2-start-with-why-empower-the-how/).
+[I started with why and then came the how][1].
 As I spent more time working with the QA teams, I noticed that the QA managers had practices that didn't align with CICD or DevOps principles or practices. 
 The belief was that CICD or DevOps were just developer toys to play with and they weren't interested in the conversation.
 Also there was a lot of fear. If you're familiar with the Westrum Culture model, I'd say this place was pathological. 
@@ -27,3 +27,5 @@ Naturally when there's efficiency, you need fewer folks on the team.
 Regardless of whether I planned on replacing them all with robots, I asked, "Wouldn't you be better off with these skills when you lose your job than without? 
 So if the company pays me to train you, why not take advantage of it?". 
 If they couldn't connect with the company purpose or see their impact on the customer, then as selfish as it may seem to some, I told them this will help them look out for themselves.
+
+[1]: https://itrevolution.com/articles/pattern-1-2-start-with-why-empower-the-how/
