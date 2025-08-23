@@ -12,9 +12,9 @@ title: Deming Driven Testing
 5. [Migrating from defect inspection to prevention][5]
 6. [Recipe for next time][6]
 
-[1]: Deming/index
-[2]: Why%20run%20the%20QA%20tests%20earlier/index
-[3]: What%20led%20me%20to%20a%20QA%20team/index
-[4]: Communicating%20the%20strategy%20to%20QA/index
-[5]: Migrating%20from%20defect%20inspection%20to%20prevention/index
-[6]: Recipe%20for%20next%20time/index
+[1]: deming/index
+[2]: why-run-the-qa-tests-earlier/index
+[3]: what-led-me-to-a-qa-team/index
+[4]: communicating-the-strategy-to-qa/index
+[5]: migrating-from-defect-inspection-to-prevention/index
+[6]: recipe-for-next-time/index

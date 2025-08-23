@@ -82,8 +82,8 @@ It also ensured that the language used to describe the business domain was mappe
 
 Finally, though I didn't think of it at the time, you can use specs written in this language as prompts to practice [specification by prompt][3] with Claude Code and have it write the bulk of the code.
 
-[1]: /demingdriventesting/Migrating%20from%20defect%20inspection%20to%20prevention/Muri
-[2]: /demingdriventesting/Communicating%20the%20strategy%20to%20QA/The%20Neo%20Nurture%20Incubator
+[1]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/Muri
+[2]: /demingdriventesting/communicating-the-strategy-to-qa/the-neo-nurture-incubator
 [3]: /specificationbyprompt/index
 [4]: https://martinfowler.com/bliki/UbiquitousLanguage.html
 [5]: https://youtube.com/clip/UgkxwDpbV3Wzrdz0mNow9cglz9_KJuxLmj25?si=6Sx67uKN7UoKukVM
