@@ -7,7 +7,7 @@ Maybe it's because all the contractors who worked with me on and myself left but
 The dev lead and developers who took over also reported to my manager so why didn't they maintain it?
 I think it's because it wasn't theirs, they didn't own it. 
 They also didn't know how to use the version control system for their code so I assume that contributed to it.
-I'm told they went back to manual deploys for the [system I described](/demingdriventesting/what-led-me-to-a-qa-team/the-awesome-machine)
+I'm told they went back to manual deploys for the [system I described][1]
 
 When I left my QA team in 2022, they kept everything. 
 The other testing team, a UAT team, was merged with mine and I'm told they questioned why my team worked the way they did.
@@ -27,3 +27,5 @@ They had to pick between not running tests and dealing with the headache of defe
 On the other hand, they could run the tests quietly (their managers weren't technical enough to know what's going on) and if they were caught running QA tests they'd just get yelled at for an hour at most.
 So why did they do it? I never brought it up with them but I think it's because we made the right thing the easy thing to do.
 The joy of getting fast feedback and enjoying coding was their intrinsic motivator.
+
+[1]: /demingdriventesting/what-led-me-to-a-qa-team/the-awesome-machine

@@ -21,7 +21,7 @@ You can code in Python, Java, JavaScript etc and the deployment process stays th
 I wanted the QA team de-coupled in the same way, ideally using a REST API but we used a Java library as the API client.
 An API gives them access to the data and they could use that in whatever framework they wanted.
 It de-couples the QA team from every development team and they can all preserve their own frameworks and practices.
-This is why I agree with [Dave when he spoke to Henry Golding about](/sheepdogblog/engineering-room/2025/08/04/how-we-made-minecraft-using-continuous-delivery#3513-test-framework-constraints) frameworks being intrusive.
+This is why I agree with [Dave when he spoke to Henry Golding about][4] frameworks being intrusive.
 
 In the lean world, I like that we prefer pull and not push; I wanted people to opt in.
 Therefore the platform had to make adoption easier and so I applied Shu-Ha-Ri to its design.
@@ -57,3 +57,4 @@ If garbage went in, what came out wouldn't be useful to developers.
 [1]: https://www.bentley.com/software/staad/
 [2]: https://www.youtube.com/watch?v=Xa6c3OTr6yA
 [3]: https://github.com/farhan5248/sheep-dog-cloud/blob/main/sheep-dog-dev-svc/src/main/java/org/farhan/mbt/controller/UMLController.java
+[4]: /sheepdogblog/engineering-room/2025/08/04/how-we-made-minecraft-using-continuous-delivery#3513-test-framework-constraints

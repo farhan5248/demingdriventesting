@@ -33,7 +33,7 @@ When I think about this type of re-working of the tests, I think of the story ab
 ```
 
 One of the first things we did was create the automation after all the tests were written instead of at the end.
-This was when I introduced the term [Jidoka](jidoka) and automated the creation of test automation.
+This was when I introduced the term [Jidoka][3] and automated the creation of test automation.
 This made the delays due to manual execution basically disappear and now the tester was either logging defects or fixing test cases.
 
 ```
@@ -42,7 +42,7 @@ This made the delays due to manual execution basically disappear and now the tes
 ```
 
 Next we tried to mistake proof writing test cases to eliminate automation generation errors.
-That's when I introduced [Poka Yoke](poka-yoke). 
+That's when I introduced [Poka Yoke][4]. 
 If the code was delivered to QA before we finished writing all the tests, then we ran what we had.
 This was done to prevent re-work in the test case expectations.
 There were still some tests that had to be re-worked but not as many.
@@ -53,7 +53,7 @@ There were still some tests that had to be re-worked but not as many.
 
 Finally the testers and developers were writing their tests and running them in small batches daily and sometimes hourly in the lowest dev environment.
 There was re-work but none that I could detect because almost all issues were fixed within the day.
-By this point I had explained [Just In Time](just-in-time) to the team.
+By this point I had explained [Just In Time][5] to the team.
 Most regressions were run in the dev environment but some data was only available in QA. 
 There were still regression defects or integration defects with the non COBOL system. 
 The former were quickly fixed and the latter I treated as special cause variation. 
@@ -65,3 +65,6 @@ The code was delivered to QA later at this point, but the whole process was smoo
 
 [1]: https://deming.org/the-first-control-chart/
 [2]: https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter1/section1/item4.html
+[3]: jidoka
+[4]: poka-yoke
+[5]: just-in-time

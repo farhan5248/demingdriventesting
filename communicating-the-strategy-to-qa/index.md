@@ -5,7 +5,7 @@ title: Communicating the strategy to QA
 The goal shouldn't be to have BDD or CICD, they'll come about gradually, it's to create a culture of continuous improvement and easy ownership. 
 As my QA team culture changed, they and the COBOL developers learnt that the QA team's tests driving the developers code changes was the better way of working.
 The second order effect was that people saw there was no need to rely on inspection at the end to ensure quality.
-All of the work done by both teams was done with no restructuring of the teams, no budget for the training and no delays to the release schedule, just hundreds of kaizen after 4.5 years. 
+All of the work done by both teams was done with no restructuring of the teams, no budget for the training and no delays to the release schedule, just hundreds of [kaizen][9] after 4.5 years. 
 
 The opposite is telling everyone we're doing BDD. They'll go online and read about a tool called Cucumber with a programming language called Java. 
 The testers will say they can't code and so might everyone else. The developers will say they can code but only in COBOL. My transformation would have died right there. 
@@ -32,3 +32,4 @@ I wanted to see what process and practice emerge if we systematically and scient
 [6]: the-power-of-habit
 [7]: diffusion-of-innovation
 [8]: shuhari
+[9]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/kaizen

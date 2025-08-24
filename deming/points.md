@@ -12,7 +12,7 @@ The same goes for point 4, I didn't attempt to apply that.
 
 3. **Cease dependence on inspection to achieve quality. Eliminate the need for inspection on a mass basis by building quality into the product in the first place.** This was interpreted as implementing shift-left. It was simply the cool buzzword at the time so I used it. Most of the work done by the COBOL code QA team was around this, they got to the point of not needing inspection in QA because they worked with the developers to run the tests every daily and even hourly during the coding phase. Though only the COBOL developers ran the tests, every QA tester on my team had developed the same skills working towards the goal of ceasing dependency on mass inspection.
 
-5. **Improve constantly and forever the system of production and service, to improve quality and productivity, and thus constantly decrease costs.** I interpreted this as how you achieve point 1. When I started in 2018, I made 1 or maybe 2 improvements and twiddled my thumbs most of the time waiting for suggestions. By the time I left, there was a backlog of Kaizens that me and 3 of my developers just didn't have the time for. We were pushing out changes to the Maven or Xtext plug-ins everyday.
+5. **Improve constantly and forever the system of production and service, to improve quality and productivity, and thus constantly decrease costs.** I interpreted this as how you achieve point 1. When I started in 2018, I made 1 or maybe 2 improvements and twiddled my thumbs most of the time waiting for suggestions. By the time I left, there was a backlog of [Kaizens][4] that me and 3 of my developers just didn't have the time for. We were pushing out changes to the Maven or Xtext plug-ins everyday.
 
 6. **Institute training on the job.** I met every single person on my team for 1:1 every week. That's right, that's like dozens of meetings weekly :) Initially it was for 30 minutes per person, then it was only for full-time employees after most contractors left, then it was pairs of folks because my throat needed a break from talking every 30 minutes. The 1:1 was simple, it was for me to ask what [Paul Akers I believe asked folks, what about your job is bugging you][2]. I personally trained everyone on my team until I needed to pass on the responsibility to others as I planned on leaving.
 
@@ -37,3 +37,4 @@ I wasn't the CEO, but I certainly made sure everybody on my team was part of the
 [1]: https://deming.org/explore/fourteen-points/
 [2]: https://paulakers.net/2011/general/fix-what-bugs-you
 [3]: https://www.youtube.com/watch?v=PhuKJWm1_fQ
+[4]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/kaizen

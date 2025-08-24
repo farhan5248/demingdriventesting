@@ -20,7 +20,7 @@ These text files were either CPHA3 claim requests or upload files with data abou
 Instead of trying to get folks to use Cucumber and teach them about Gherkin and stories etc, I worked with Word and somebatchtool.jar. 
 I asked them what problems they ran into and kept fixing those by wrapping the entire process within a custom Maven plug-in.
 Then I showed this way of working to the non-COBOL testers and defined it as the standard that we'd work towards.
-This was almost like keyword driven testing but closer to the [Ubiquitous language in Domain Driven Design](/demingdriventesting/about#the-ubiquitous-language).
+This was almost like keyword driven testing but closer to the [Ubiquitous language in Domain Driven Design][2].
 
 The other testing team, a UAT team also tried to adopt Robot Framework for their testers but failed.
 The path they took was to get a capable technical resource to automate the tests and make a library of keywords that could be used.
@@ -33,3 +33,4 @@ Her tests were run by the developers too.
 Like my team, she defined the language, not someone else.
 
 [1]: https://www.youtube.com/watch?v=0af00UcTO-c
+[2]: /demingdriventesting/about#the-ubiquitous-language

@@ -15,5 +15,7 @@ Once we automated things and sped things up, they saw the time wasted fixing mis
 I told them the story of Toyota and the automatic loom and we introduced the Eclipse Xtext Editor. 
 Xtext is a language engineering framework and it controlled what someone typed the way any language editor in an IDE does. 
 We basically defined a DSL which was a subset of the english language using a regular expression and it worked much like the Java code editor does in Eclipse. 
-This language was eventually the [Ubiquitous language in Domain Driven Design](/demingdriventesting/about). 
-The result was that they had fewer runtime errors and work to redo because syntax errors were caught as they typed. Before this it was like coding with a basic text editor, not an IDE. 
+This language was eventually the [Ubiquitous language in Domain Driven Design][1]. 
+The result was that they had fewer runtime errors and work to redo because syntax errors were caught as they typed. Before this it was like coding with a basic text editor, not an IDE.
+
+[1]: /demingdriventesting/about 

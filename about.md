@@ -18,7 +18,7 @@ I like to take a first principles approach and so I concluded that what Dr Demin
 
 Additionally as it is with other concepts, there seems to be multiple definitions on what it is.
 I was concerned that if people on my team went Googling what Lean is, they'd get information that would discourage them from trying it out.
-Some folks think Lean six-sigma is the same as Lean which is the same as TPS.
+Some folks think Lean six-sigma is the same as Lean which is the same as [TPS][13].
 I admit that I think the latter two are the same and know nothing about the six-sigma one (I've so far found no use for it).
 From the podcasts I listen to I hear consultants say similar things; folks think it doesn't apply because they don't make anything (my QA team didn't make software), or they don't make cars or they don't make the same thing over and over again.
 My response is that lean is about the process. Even if you don't make cars, the same car or make anything at all, your process is not changing everytime you do the job. 
@@ -31,8 +31,8 @@ For that I relied on [Start with Why][10] by Simon Sinek.
 
 I applied the following to the process of inspection carried out by the QA team:
 
-1. Toyota Production System concepts (Jidoka, Kaizen, Poka-Yoke)
-2. Dr Deming's System of Profound Knowledge
+1. Toyota Production System concepts ([Jidoka][14], [Kaizen][15], [Poka-Yoke][16])
+2. [Dr Deming's System of Profound Knowledge][17]
 3. Improvement Kata by Mike Rother
 4. Lean Software Development by Tom and Mary Poppendieck
 
@@ -94,3 +94,8 @@ Finally, though I didn't think of it at the time, you can use specs written in t
 [10]: https://simonsinek.com/books/start-with-why/
 [11]: https://testandanalysis.home.blog/
 [12]: https://deming.org/you-burn-ill-scrape/
+[13]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/index
+[14]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/jidoka
+[15]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/kaizen
+[16]: /demingdriventesting/migrating-from-defect-inspection-to-prevention/poka-yoke
+[17]: /demingdriventesting/deming/sopk

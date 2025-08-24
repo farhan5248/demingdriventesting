@@ -17,4 +17,6 @@ I'm told this instruction from the top, like the C-suite but without any explana
 By the time I left, an example of overburden was the use of Cucumber. 
 When a test fails in Cucumber, the stack trace isn't easy for someone to go through.
 I concluded that the team needed to leave Cucumber behind which is why my example project demonstrates how to write the tests in AsciiDoctor.
-I wrote more about it on the [blog](/sheepdogblog/engineering-room/2025/08/04/how-we-made-minecraft-using-continuous-delivery)
+I wrote more about it on the [blog][1]
+
+[1]: /sheepdogblog/engineering-room/2025/08/04/how-we-made-minecraft-using-continuous-delivery
