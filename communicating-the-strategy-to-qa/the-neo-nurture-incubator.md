@@ -32,5 +32,16 @@ The tester there I believe learnt everything herself and used those tools to mak
 Her tests were run by the developers too.
 Like my team, she defined the language, not someone else.
 
+## Understanding Test Types Through Team History
+
+An interesting question arose during the transformation: were the tests my team wrote unit tests or acceptance tests? 
+
+The approach was originally developed by the system's developers before there ever was a QA team. When the first QA analyst was hired more than a decade ago, she simply continued their methodology. My team inherited this same approach another decade later.
+
+So are these unit tests because developers created the process, or acceptance tests because the QA team executes them? According to [Ian Cooper's presentation on TDD][3], they're unit tests - tests that verify a unit of behavior rather than a unit of code structure.
+
+This historical perspective reinforces the neo-nurture approach: rather than forcing teams to abandon working practices, we built on the solid foundation that had evolved organically over decades. The QA team was already writing behavioral specifications in clear language - we just needed to enhance the tooling and process around it.
+
 [1]: https://www.youtube.com/watch?v=0af00UcTO-c
-[2]: /demingdriventesting/about#the-ubiquitous-language
+[2]: /specificationbyprompt/walkthrough-of-tools/ubiquitous-language-implementation
+[3]: https://www.youtube.com/watch?v=EZ05e7EMOLM
