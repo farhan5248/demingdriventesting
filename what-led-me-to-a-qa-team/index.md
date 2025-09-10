@@ -14,3 +14,4 @@ I should add that I rarely got anything wrong, thanks to heroic effort to memori
 3. [Maginot Line](maginot-line)
 4. [Shift Left Testing](shift-left-testing)
 5. [Setting a Good Example](setting)
+6. [Geordi La Forge](geordi-la-forge)
