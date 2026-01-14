@@ -37,6 +37,6 @@ Some tests still need to be run to inspect the process by inspecting the product
 [1]: https://www.profound-deming.com/profound-podcast/s4-e16-angela-montgomery-integrating-deming-and-goldratt-for-organizational-transformation
 [2]: https://www.youtube.com/watch?v=EZ05e7EMOLM
 [3]: https://martinfowler.com/articles/microservice-testing/
-[4]: 3
+[4]: /demingdriventesting/why-run-the-qa-tests-earlier/does-it-matter-if-the-tests-actually-drive-the-development
 [5]: https://smallbatches.fm/38/transcript
 [6]: https://www.leanmadesimple.com/podcast/toyota-uk-tour-review
