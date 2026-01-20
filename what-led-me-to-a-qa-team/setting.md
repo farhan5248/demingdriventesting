@@ -10,7 +10,7 @@ The best part is at minute 42:13 where he provides an explanation that I use to 
 Instead of getting testers to learn to program or getting test automation developers to automate tests, use a [language workbench with a DSL][1].
 This way you make minimal changes to how testers write their test cases and minimal changes to how developers prefer to run their unit tests.
 
-[1]: /specificationbyprompt/walkthrough-of-tools/ubiquitous-language
+[1]: /specificationbyprompt/architecture-and-capabilities/ubiquitous-language
 
 
 

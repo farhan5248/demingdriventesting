@@ -43,5 +43,5 @@ So are these unit tests because developers created the process, or acceptance te
 This historical perspective reinforces the neo-nurture approach: rather than forcing teams to abandon working practices, we built on the solid foundation that had evolved organically over decades. The QA team was already writing behavioral specifications in clear language - we just needed to enhance the tooling and process around it.
 
 [1]: https://www.youtube.com/watch?v=0af00UcTO-c
-[2]: /specificationbyprompt/walkthrough-of-tools/ubiquitous-language
+[2]: /specificationbyprompt/architecture-and-capabilities/ubiquitous-language
 [3]: https://www.youtube.com/watch?v=EZ05e7EMOLM
