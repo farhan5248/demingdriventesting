@@ -15,7 +15,8 @@ Another challenge they saw was how can you even test something if it's not compl
 I decided to leave the QA team when I finally had data from my QA team and the COBOL development team to back-up what I already believed.
 
 1. [Can QA tests be run against an incomplete system?](can-qa-tests-be-run-against-an-incomplete-system)
-2. [Does running the QA team tests during coding slow developers down?](does-running-the-qa-team-tests-during-coding-slow-developers-down)
-3. [Does it reduce how much time QA has to execute tests?](does-it-reduce-how-much-time-qa-has-to-execute-tests)
-4. [Does it matter if the tests actually drive the development?](does-it-matter-if-the-tests-actually-drive-the-development)
-5. [At what point should developers be involved?](at-what-point-should-developers-be-involved)
+2. [Can all the end-to-end tests be run earlier?](can-all-the-end-to-end-tests-be-run-earlier)
+3. [Does running the QA team tests during coding slow developers down?](does-running-the-qa-team-tests-during-coding-slow-developers-down)
+4. [Does it reduce how much time QA has to execute tests?](does-it-reduce-how-much-time-qa-has-to-execute-tests)
+5. [Does it matter if the tests actually drive the development?](does-it-matter-if-the-tests-actually-drive-the-development)
+6. [At what point should developers be involved?](at-what-point-should-developers-be-involved)

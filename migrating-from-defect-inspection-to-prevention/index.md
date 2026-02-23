@@ -23,6 +23,7 @@ I've made notes [in the blog][4] with links back to detailed examples here.
 9. [Kanban][13]
 10. [Just In Time][14]
 11. [Heijunka][15]
+12. [Shojinka][16]
 
 [1]: https://agilemanifesto.org/
 [2]: https://open.spotify.com/episode/14Nbr9nPnIhBYsYlXJY3xI
@@ -39,3 +40,4 @@ I've made notes [in the blog][4] with links back to detailed examples here.
 [13]: kanban
 [14]: just-in-time
 [15]: heijunka
+[16]: shojinka

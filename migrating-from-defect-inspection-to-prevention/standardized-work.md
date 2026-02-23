@@ -1,5 +1,5 @@
 ---
-title: Standard Work
+title: Standardized Work
 ---
 
 I aimed to standardize the work for these reasons
